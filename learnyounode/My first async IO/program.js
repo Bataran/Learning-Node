@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var fs = require('fs');
 var filePath = process.argv[2];
 
